@@ -58,19 +58,17 @@ Antes de começar, instale as seguintes dependências:
 Instale tudo com:
 ```bash
 pip install -r requirements.txt
+```
 
-⚙️Como Usar
+## ⚙️ **Como usar**
+```bash
 git clone https://github.com/seu-usuario/cybersecurity-attacks.git
 cd cybersecurity-attacks
+```
 E certifiquese que o arquivo esteja com o nome cybersecurity_attacks.csv no diretorio raiz.
 
 📚 Referências
-Referências Acadêmicas:
 Paper Oficial: Cybersecurity Attacks - Predição de Severidade
-Artigo detalhado explicando os métodos utilizados no projeto.
-Documentação de Bibliotecas:
-TensorFlow: Documentação Oficial
-Guia completo para construir e treinar modelos de aprendizado de máquina.
+Documentação do TensorFlow: tensorflow.org
+Imbalance Data Handling with SMOTE: imbalanced-learn
 
-Imbalanced-learn: SMOTE e Técnicas de Balanceamento
-Biblioteca para lidar com datasets desbalanceados.
