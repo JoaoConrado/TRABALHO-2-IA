@@ -35,7 +35,7 @@ O paper completo, com detalhes sobre métodos e resultados, está disponível [a
   - Visualização da correlação entre dias da semana e número de ataques por ano.
 
 - **Modelagem com Redes Neurais**:
-  - Foram testadas três topologias diferentes, ajustando a arquitetura e os hiperparâmetros.
+  - Foram testadas três topologias diferentes, ajustando a arquitetura, hiperparâmetros e taxa de aprendizado.
   - Apesar dos desafios iniciais com baixa acurácia (~33\%), melhorias propostas no modelo e no balanceamento dos dados resultaram em desempenho aprimorado.
 
 - **Conclusão**:
