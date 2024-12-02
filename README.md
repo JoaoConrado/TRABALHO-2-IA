@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 ## ⚙️ **Como usar**
 ```bash
-git clone https://github.com/seu-usuario/cybersecurity-attacks.git
+git clone https://github.com/JoaoConrado/TRABALHO-2-IA
 cd cybersecurity-attacks
 ```
 E certifiquese que o arquivo esteja com o nome cybersecurity_attacks.csv no diretorio raiz.
