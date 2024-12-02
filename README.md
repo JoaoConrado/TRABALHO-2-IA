@@ -68,8 +68,8 @@ cd cybersecurity-attacks
 E certifiquese que o arquivo esteja com o nome cybersecurity_attacks.csv no diretorio raiz.
 
 ## 📚 **Referências**
-Paper Oficial: Cybersecurity Attacks - Predição de Severidade .
-Documentação do TensorFlow: tensorflow.org .
-Imbalance Data Handling with SMOTE: imbalanced-learn .
+Paper Oficial: Cybersecurity Attacks - Predição de Severidade  
+Documentação do TensorFlow: tensorflow.org  
+Imbalance Data Handling with SMOTE: imbalanced-learn  
 Duvidas sobre treinamentos: https://github.com/arnaldog12/Machine_Learning/blob/master/Redes%20Neurais.ipynb .
 
